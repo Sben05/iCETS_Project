@@ -1,6 +1,7 @@
 [theme]
-primaryColor="#F63366"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
-textColor="#262730"
-font="sans serif"
+primaryColor = '#FF6347'  # Tomato color
+backgroundColor = '#2E2E2E'  # Dark Gray
+secondaryBackgroundColor = '#3A3A3A'  # Slightly lighter Dark Gray
+textColor = '#FFFFFF'  # White
+accentColor = '#FFD700'  # Gold
+font = "monospace"
